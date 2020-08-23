@@ -21,10 +21,5 @@ namespace Git.Models
             });
             return s;
         }
-
-        public void testeerrado()
-        {
-            //testando
-        }
     }
 }
